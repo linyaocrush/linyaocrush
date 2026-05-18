@@ -104,28 +104,27 @@
 
 ## 🏆 GitHub 个人成就
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=linyaocrush&theme=ambient_gradient&no-frame=true&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=linyaocrush&theme=radical&no-frame=true&row=1" />
 </div>
 
 ---
 
 ## 📊 开发数据总览
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=linyaocrush&show_icons=true&theme=ambient_gradient&hide_border=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyaocrush&layout=compact&theme=ambient_gradient&hide_border=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=linyaocrush&theme=ambient_gradient&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=linyaocrush&theme=radical&hide_border=true" alt="编程时长统计">
+<img src="https://github-readme-stats.vercel.app/api/activity?username=linyaocrush&theme=radical&hide_border=true" alt="近期活跃动态">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=linyaocrush&theme=radical&hide_border=true">
 </div>
 
 ---
 
 ## 📈 日常开发轨迹
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=linyaocrush&theme=ambient_gradient&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=linyaocrush&theme=radical&hide_border=true" width="100%"/>
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80&section=footer" alt="footer">
-<p style="color:#888;font-size:14px">以热爱赴前路，以代码绘微光</p>
-</div>
+<p align="center">
+<kbd>以热爱赴前路</kbd> &nbsp;&nbsp; <kbd>以代码绘微光</kbd>
+</p>
