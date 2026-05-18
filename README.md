@@ -1,7 +1,9 @@
 # 你好，我是 linyaocrush
 
+
+
 <div align="center">
-<strong>兴趣驱动型开发者 | 正在成长中的技术爱好者</strong>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=480&lines=兴趣驱动型开发者;正在成长中的技术爱好者" />
 </div>
 
 <br>
@@ -13,7 +15,9 @@
 ---
 
 ## 🧩 技术栈
-<div>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,sqlite,vscode,github" />
+<br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Flet-2D2D2D?style=flat-square">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square">
@@ -42,9 +46,23 @@
 
 ---
 
+## 🏆 GitHub 成就奖杯
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=linyaocrush&theme=ambient_gradient&no-frame=true&row=1" />
+</div>
+
+---
+
 ## 📊 GitHub 数据统计
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=linyaocrush&show_icons=true&theme=ambient_gradient&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyaocrush&layout=compact&theme=ambient_gradient&hide_border=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=linyaocrush&theme=ambient_gradient&hide_border=true">
+</div>
+
+---
+
+## 📈 开发动态轨迹
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=linyaocrush&theme=ambient_gradient&hide_border=true" width="100%"/>
 </div>
