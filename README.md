@@ -111,8 +111,6 @@
 
 ## 📊 开发数据总览
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=linyaocrush&theme=radical&hide_border=true" alt="编程时长统计">
-<img src="https://github-readme-stats.vercel.app/api/activity?username=linyaocrush&theme=radical&hide_border=true" alt="近期活跃动态">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=linyaocrush&theme=radical&hide_border=true">
 </div>
 
