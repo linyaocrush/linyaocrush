@@ -126,6 +126,6 @@
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=star&color=gradient&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80&section=footer" alt="footer">
 <p style="color:#888;font-size:14px">以热爱赴前路，以代码绘微光</p>
 </div>
