@@ -3,20 +3,60 @@
 
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=480&lines=兴趣驱动型开发者;正在成长中的技术爱好者" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&size=17&duration=5000&pause=1200&width=580&lines=コードを筆に、自らの優しき旅路を綴る;以代码为笔，书写属于自己的温柔旅途" />
+</div>
+
+<br>
+
+> <div align="center">专注实用工具开发，以热爱驱动前行，在代码与热爱之间寻找平衡</div>
+
+<br>
+
+<div align="center">
+  <code>兴趣驱动型开发者</code>
+  <code>持续成长技术爱好者</code>
+  <code>桌面应用 · 数据处理</code>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=linyaocrush&color=9370DB&style=flat-square" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=linyaocrush&color=9370DB&style=flat-square" alt="访客量">
+<img src="https://img.shields.io/github/stars/linyaocrush?color=8A2BE2&style=flat-square" alt="获星数">
+<img src="https://img.shields.io/github/followers/linyaocrush?color=6A5ACD&style=flat-square" alt="关注数">
+<img src="https://img.shields.io/badge/状态-日常活跃-22c55e?style=flat-square&logo=github" alt="在线状态">
 </div>
 
 ---
 
-## 🧩 技术栈
+## 📮 社交与联络
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,sqlite,vscode,github" />
+<a href="mailto:xiaokuiace@gmail.com">
+<img src="https://img.shields.io/badge/邮箱-xiaokuiace@gmail.com-9370DB?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/linyao_crush" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-linyao__crush-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+</a>
+<a href="https://bsky.app/profile/linyao-crush.bsky.social" target="_blank">
+<img src="https://img.shields.io/badge/Bluesky-linyao--crush-0085FF?style=flat-square&logo=bluesky&logoColor=white" />
+</a>
+</div>
+
+---
+
+## 🎐 个人兴趣偏好
+<div align="center">
+<img src="https://img.shields.io/badge/ACG-二次元文化-DA70D6?style=flat-square">
+<img src="https://img.shields.io/badge/音乐-日常聆听-9370DB?style=flat-square">
+<img src="https://img.shields.io/badge/游戏-休闲体验-6A5ACD?style=flat-square">
+<img src="https://img.shields.io/badge/AI-智能探索-483D8B?style=flat-square">
+</div>
+
+---
+
+## 🧩 常用技术栈
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,sqlite,vscode,github,pycharm" />
 <br><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Flet-2D2D2D?style=flat-square">
@@ -27,33 +67,49 @@
 
 ---
 
-## 🎯 项目代表作
+## 🎯 精选开源项目
 
-### [Steam 倒余额工具箱](https://github.com/linyaocrush/steam-flip-calculator)
-基于 Flet 开发的现代化桌面实用工具，采用 MD3 设计与毛玻璃 UI。
-- 精准核算 Steam 市场交易利润、手续费、折扣率与余额折算比例
-- 自动拉取实时汇率，支持十种主流货币自由切换
-- 实现中英日三语言国际化界面，适配深色主题
-- 本地数据库持久化存储交易记录，支持全维度数据统计汇总
-- 采用单例全局状态管理、版本化数据库迁移，项目结构规范易维护
-- 提供预编译 Release 程序包，无需配置 Python 环境即可直接运行
+<table align="center">
+<tr>
+<td width="50%">
 
-### [DLsite 消费分析工具](https://github.com/linyaocrush/DLsite-Purchase-Analyzer)
-面向个人场景开发的自动化消费数据分析工具。
-- 批量自动化整理平台全部购买记录
-- 按月度维度完成消费分类、金额统计与数据汇总
-- 生成可视化饼图，直观呈现个人消费结构与支出占比
+### 💜 Steam 倒余额工具箱
+[![开源状态](https://img.shields.io/badge/状态-稳定可用-success?style=for-the-badge)](https://github.com/linyaocrush/steam-flip-calculator)
+[![类型](https://img.shields.io/badge/桌面实用工具-9370DB?style=for-the-badge)](https://github.com/linyaocrush/steam-flip-calculator)
+
+基于 Flet 开发现代化桌面程序，采用 MD3 毛玻璃视觉设计
+- 精准计算交易收支、平台手续费与余额折算比例
+- 接入实时汇率，支持十种主流货币自由切换
+- 内置中英日三语言界面，原生适配深色主题
+- 本地数据库留存交易记录，自动生成统计报表
+- 项目结构规范，支持源码运行与免环境编译包
+
+</td>
+<td width="50%">
+
+### 💙 DLsite 消费分析工具
+[![开源状态](https://img.shields.io/badge/状态-日常维护-success?style=for-the-badge)](https://github.com/linyaocrush/DLsite-Purchase-Analyzer)
+[![类型](https://img.shields.io/badge/数据分析脚本-6A5ACD?style=for-the-badge)](https://github.com/linyaocrush/DLsite-Purchase-Analyzer)
+
+轻量化自用数据分析项目，简洁高效易使用
+- 一键批量整理平台全部消费记录
+- 按月份自动分类汇总消费金额
+- 生成直观可视化图表，清晰梳理支出结构
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 GitHub 成就奖杯
+## 🏆 GitHub 个人成就
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=linyaocrush&theme=ambient_gradient&no-frame=true&row=1" />
 </div>
 
 ---
 
-## 📊 GitHub 数据统计
+## 📊 开发数据总览
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=linyaocrush&show_icons=true&theme=ambient_gradient&hide_border=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linyaocrush&layout=compact&theme=ambient_gradient&hide_border=true">
@@ -62,7 +118,14 @@
 
 ---
 
-## 📈 开发动态轨迹
+## 📈 日常开发轨迹
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=linyaocrush&theme=ambient_gradient&hide_border=true" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=star&color=gradient&height=80&section=footer" />
+<p style="color:#888;font-size:14px">以热爱赴前路，以代码绘微光</p>
 </div>
