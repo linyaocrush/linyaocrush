@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 动态波浪横幅 -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=200&section=header&text=linyaocrush&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=コードを筆に、自らの優しき旅路を綴る&descAlignY=55&descAlign=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=200&section=header&text=凛ふわ狐&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=コードを筆に、自らの優しき旅路を綴る&descAlignY=55&descAlign=62&descSize=16" />
 </div>
 
 <div align="center">
